@@ -1,0 +1,9 @@
+/home/rozy/yolobot/build/yolobot_description/CMakeFiles/uninstall.dir
+/home/rozy/yolobot/build/yolobot_description/CMakeFiles/yolobot_description_uninstall.dir
+/home/rozy/yolobot/build/yolobot_description/CMakeFiles/test.dir
+/home/rozy/yolobot/build/yolobot_description/CMakeFiles/edit_cache.dir
+/home/rozy/yolobot/build/yolobot_description/CMakeFiles/rebuild_cache.dir
+/home/rozy/yolobot/build/yolobot_description/CMakeFiles/list_install_components.dir
+/home/rozy/yolobot/build/yolobot_description/CMakeFiles/install.dir
+/home/rozy/yolobot/build/yolobot_description/CMakeFiles/install/local.dir
+/home/rozy/yolobot/build/yolobot_description/CMakeFiles/install/strip.dir
